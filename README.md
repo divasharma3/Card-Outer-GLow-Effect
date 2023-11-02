@@ -1,1 +1,1 @@
-# Card-Outer-GLow-Effect
+# Card-Outer-Glow-Effect
